@@ -42,6 +42,11 @@
     opacity: 0;
     transition: all 0.5s;
 }
+.hover-bg img{
+	width: 100%;
+	height: 100%;
+}
+
 .hover-bg .hover-text>h4 {
     opacity: 0;
     -webkit-transform: translateY(100%);
